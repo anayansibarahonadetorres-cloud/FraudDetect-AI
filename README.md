@@ -4,7 +4,7 @@ Proyecto del curso de Desarrollo de IA
 
 ## Resumen
 
-FraudDetect-AI es un proyecto que utiliza inteligencia artificial para detectar posibles fraudes y robos mediante el análisis de patrones sospechosos en las transacciones. Su objetivo es ayudar a prevenir pérdidas y mejorar la seguridad.
+Detector de Fraude-AI es un proyecto que utiliza inteligencia artificial para detectar posibles fraudes y robos mediante el análisis de patrones sospechosos en las transacciones. Su objetivo es ayudar a prevenir pérdidas y mejorar la seguridad.
 
 ## Antecedentes
 
@@ -14,6 +14,7 @@ Este proyecto busca detectar actividades sospechosas antes de que causen daños.
 ## Datos y métodos de IA
 
 Los datos pueden incluir:
+- Archivos de excel.
 - Historial de transacciones.
 - Hora y ubicación de las compras.
 - Monto de las transacciones.
@@ -25,7 +26,7 @@ Métodos de IA:
 
 ## ¿Cómo se utiliza?
 
-El sistema analiza cada transacción y, si detecta un comportamiento inusual, genera una alerta para que el banco o el usuario revise la operación.
+El sistema analiza cada transacción y, si detecta un comportamiento inusual, genera una alerta para que la empresa o el usuario revise la operación.
 
 ## Desafíos
 
