@@ -2,23 +2,22 @@
 
 Proyecto del curso de Desarrollo de IA
 
+![image of an online cat](https://tinyurl.com/elementsofaicat)
+
 ## Resumen
 
 Detector de Fraude-AI es un proyecto que utiliza inteligencia artificial para detectar posibles fraudes y robos mediante el análisis de patrones sospechosos en las transacciones. Su objetivo es ayudar a prevenir pérdidas y mejorar la seguridad.
 
-## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 ## Antecedentes
 
-Muchas personas y empresas son víctimas de fraudes financieros.
-Este proyecto busca detectar actividades sospechosas antes de que causen daños.
+ ¿Cuál es el problema que resolverá tu idea?
+* Muchas personas y empresas son víctimas de fraudes financieros.
+* Este proyecto busca detectar actividades sospechosas antes de que causen daños.
+
+  ¿Cuál es tu motivación personal?
+Mi motivacion personal surgio de los conocimientos adquiridos en los cursos de inteligencia artifical , donde aprendi que la IA puede analizar datos, reconocer patrones, y asi apoyar las soluciones de problemas reales.
+ 
 
 ## Datos y métodos de IA
 
