@@ -1,4 +1,4 @@
-# ** ** -- Detector de Fraude-IA
+#  Detector de Fraude-IA
 
 Proyecto del curso de Desarrollo de IA
 
